@@ -1,10 +1,10 @@
-package dad.Buscaryreemplazar;
+package BuscarYRemplazar;
 
 public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		BuscarReemplezar.main(args);
+		BuscarYRemplazar.main(args);
 
 	}
 

@@ -1,4 +1,4 @@
-package dad.Buscaryreemplazar;
+package BuscarYRemplazar;
 
 import javafx.application.Application;
 import javafx.geometry.HPos;
@@ -15,7 +15,7 @@ import javafx.scene.layout.RowConstraints;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class BuscarReemplezar extends Application{
+public class BuscarYRemplazar extends Application{
 	
 	private Label buscarLabel;
 	private Label reemplazarLabel;
